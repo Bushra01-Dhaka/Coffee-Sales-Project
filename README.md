@@ -2,7 +2,7 @@
 
 An end-to-end Excel data analytics project that processes raw transactional data to build an interactive, production-ready business intelligence dashboard. 
 
-📊 **[Interact with the Live Excel Dashboard Here](PASTE_YOUR_ONEDRIVE_SHARE_LINK_HERE)** *(Note: Replace this placeholder text with your actual OneDrive share link!)*
+📊 **[Interact with the Live Excel Dashboard Here](https://1drv.ms/x/c/6ff2bff25b7933b5/IQCe4_X0ju-aSKlNVxBo-uo9AbYhIcjYqVcPIX2mGdQPyfw?e=bdEjeM)** *(Note: Replace this placeholder text with your actual OneDrive share link!)*
 
 ---
 
@@ -41,7 +41,7 @@ The project architecture is built on three core relational data sheets combined 
 
 ## 🖥️ Dashboard Preview
 *(Tip: You can take a screenshot of your Excel screen, save it as `dashboard.png` in your GitHub repository, and display it here using the markdown line below!)*
-![Coffee Sales Dashboard Preview](dashboard.png)
+![Coffee Sales Dashboard Preview](https://drive.google.com/file/d/1ezGm0WyCaTxqIRSDk4nS-d8Gr6BehgE7/view?usp=sharing)
 
 ---
 
